@@ -2,6 +2,6 @@
 
 ## portfolio info
 
-**URL*afsharkhan-personal-portfolio.netlify.app *:
+**URL*: https://afsharkhan-personal-portfolio.netlify.app/
 
 
